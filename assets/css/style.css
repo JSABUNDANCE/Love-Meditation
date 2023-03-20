@@ -88,28 +88,29 @@ h1,h2 {
 	right: 95px;
 	position: absolute;
 }
-#Med-with-us {
-	height: 400px; ;
+/*club-meditation*/
+#club-meditation {
+	height: 400px; 
 }
 #left-about {
-	padding-top: 10%;
+	padding-top: 150px;
 	width: 33%;
 	float:left;
-	background-color: none;
+	background-color: yellow;
 }
 
 #right-about {
-	padding-top: 10%;
+	padding-top: 150px;
 	width: 33%;
-	float: left;
+	float: right;
 	background-color: blue;
 }
 
-#mid-about {
-	padding-top: 10%;
+#center-about {
+	padding-top: 150px;
 	width: 33%;
 	MARGIN: 0 auto;
-	background-color: none;
+	background-color: green;
 }
 Hr {
 	border-top:1px solid #3a3a3a;
@@ -130,5 +131,26 @@ Hr {
 	line-height: 20px;
 	clear: both;
 	margin-bottom: 50px;
+
+}
+#welcome {
+	text-align: center;
+	margin: 20px 0;
+	font-size: 200%;
+}
+#circle-container {
+	width: 300px;
+	height:300px;
+	padding: 30px;
+	border-style:solid;
+	border-color: #ccc;
+	border-width: 1px;
+	border-radius:50%;
+	margin: 0,atuo;
+}
+#circle-cover-bg {
+	background: url{'../images/Yoga.jpeg')
+	height:100%;
+
 
 }
