@@ -93,21 +93,21 @@ h1,h2 {
 	height: 400px; 
 }
 #left-about {
-	padding-top: 150px;
+	padding-top: 90px;
 	width: 33%;
 	float:left;
 	background-color: yellow;
 }
 
 #right-about {
-	padding-top: 150px;
+	padding-top: 90px;
 	width: 33%;
 	float: right;
 	background-color: blue;
 }
 
 #center-about {
-	padding-top: 150px;
+	padding-top: 90px;
 	width: 33%;
 	MARGIN: 0 auto;
 	background-color: green;
