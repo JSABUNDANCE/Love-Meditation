@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+* {
+	margin: 0;
+	Padding: 0;
+	border: none;
+}
+
+body {
+	font-family: lato,  sans-serif;
+	font-weight:  300;
+	color: inherit;
+
+	
+}
+
+h1,h2 {
+	font-family: Oswarld, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	color:darkblue;
+}
+
+#logo {
+	float:left;
+	font-size: 240%;
+	margin-left: 30px;
+}
+#menu {
+	font-size: 105%;
+	letter-spacing: 4px;
+
+}
+#menu, #logo {
+	line-height: 90px;
+
+}
+#menu li {
+	float: right;
+	list-style-type: none;
+	margin-right:40px;
+}
+#menu a {
+	text-decoration: none;
+	color:inherit;
+}
+
+#menu a:hover {
+	border-bottom: 1px solid#3a3a3a; 
+}
+#Higher-outer {
+	height: 400x;
+	width : 100%;
+	overflow: hidden;
+	position: relative;
+
+}
+#cover-text , #cover-text h2 {
+	color:darkblue;
+
+}
+#Higher-image{
+	height: 400px;
+	width: 100%;
+	background: url(../images/Higher-image.jpeg) no-repeat center center;
+	animation-name: Higher-zoom;
+	animation-duration: 6s ;
+	animation-fill-mode: forwards;
+}
+@keyframes Higher-zoom {
+	from{
+    Transform:scale(1);
+	}
+	to{
+    transform:scale(1.1);
+	}
+}
+#cover-text {
+	font-size: 115%;
+	font-family: Oswald,sans-serif;
+	text-transform: uppercase;
+	letter-spacing; 4px;
+	width: 220px;
+	height: 120px;
+	padding-top: 40px;
+	padding-left:20px;
+	background-color: rgba(255,255,255, .2);
+	bottom: 95px;
+	right: 95px;
+	position: absolute;
+}
+#Med-with-us {
+	height: 400px; ;
+}
+#left-about {
+	padding-top: 10%;
+	width: 33%;
+	float:left;
+	background-color: none;
+}
+
+#right-about {
+	padding-top: 10%;
+	width: 33%;
+	float: left;
+	background-color: blue;
+}
+
+#mid-about {
+	padding-top: 10%;
+	width: 33%;
+	MARGIN: 0 auto;
+	background-color: none;
+}
+Hr {
+	border-top:1px solid #3a3a3a;
+	width: 100%;
+	margin: 5px 0;
+}
+.life-about-heading {
+     width:60%;
+	 float:right;
+	 line-height: 20px;
+	 clear: both;
+	 margin-bottom: 50px;
+
+}
+.right-about-heading {
+	width:60%;
+	float:left;
+	line-height: 20px;
+	clear: both;
+	margin-bottom: 50px;
+
+}
