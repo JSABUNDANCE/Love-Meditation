@@ -96,14 +96,14 @@ h1,h2 {
 	padding-top: 90px;
 	width: 33%;
 	float:left;
-	background-color: yellow;
+	background-color: none;
 }
 
 #right-about {
 	padding-top: 90px;
 	width: 33%;
 	float: right;
-	background-color: blue;
+	background-color: none;
 }
 
 #center-about {
