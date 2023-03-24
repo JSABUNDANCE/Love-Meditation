@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
 * {
 	margin: 0;
 	Padding: 0;
 	border: none;
+	font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -78,7 +79,7 @@ h1,h2 {
 	font-size: 115%;
 	font-family: Oswald,sans-serif;
 	text-transform: uppercase;
-	letter-spacing; 4px;
+	letter-spacing: 4px;
 	width: 220px;
 	height: 120px;
 	padding-top: 40px;
@@ -242,7 +243,7 @@ a:hover {
     line-height: 0;
     column-count: 3;
     column-gap: 0;
-
+}
 #photos > img {
 		width: 100%;
 }
