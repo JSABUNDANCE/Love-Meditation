@@ -296,6 +296,16 @@ a:hover {
 }
 
 #photos {column-count: 3;}
+
+
+
+/* SIGNUP CSS  */
+.form-section{
+	background: red;
+	margin-top: 100px;
+}
+
+
 /* For small screen sizes below 800px width */
 @media screen and (max-width: 800px) {
     #photos {
