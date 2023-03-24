@@ -7,7 +7,6 @@
 }
 
 body {
-	font-family: lato,  sans-serif;
 	font-weight:  300;
 	color: inherit;
 
@@ -15,10 +14,15 @@ body {
 }
 
 h1,h2 {
-	font-family: Oswarld, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	color:darkblue;
+
+}
+.meditation-header{
+	text-align: center;
+	margin-top: 2rem;
+
 }
 
 #logo {
@@ -77,11 +81,10 @@ h1,h2 {
 }
 #cover-text {
 	font-size: 115%;
-	font-family: Oswald,sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	width: 220px;
-	height: 120px;
+	height: 180px;
 	padding-top: 40px;
 	padding-left:20px;
 	background-color: rgba(255,255,255, .2);
@@ -90,56 +93,23 @@ h1,h2 {
 	position: absolute;
 }
 /*club-meditation*/
-#club-meditation {
-	height: 400px; 
-}
-#left-about {
-	padding-top: 90px;
-	width: 33%;
-	float:left;
-	background-color: none;
-}
 
-#right-about {
-	padding-top: 90px;
-	width: 33%;
-	float: right;
-	background-color: none;
+.meditation-container{
+	display: flex;
+	flex-direction: column;	
+	gap: 24px;
 }
-
-#center-about {
-	padding-top: 90px;
-	width: 33%;
-	MARGIN: 0 auto;
-	background-color: none;
+.m-c-row{
+	display: flex;
+	gap: 24px;
+	padding: 16px;
+	align-items: center;
 }
-Hr {
-	border-top:1px solid #3a3a3a;
-	width: 100%;
-	margin: 5px 0;
+.m-c-col h3{
+	font-size: 2rem;
+	color: blueviolet;
 }
-.life-about-heading {
-     width:60%;
-	 float:right;
-	 line-height: 20px;
-	 clear: both;
-	 margin-bottom: 50px;
-
-}
-.right-about-heading {
-	width:60%;
-	float:left;
-	line-height: 20px;
-	clear: both;
-	margin-bottom: 50px;
-
-}
-#welcome {
-	text-align: center;
-	margin: 10px 0;
-	font-size: 100%;
-}
-#circle-container {
+.m-c-circle-container {
 	width: 300px;
 	height:300px;
 	padding: 30px;
@@ -149,13 +119,13 @@ Hr {
 	border-radius:50%;
 	margin: 0 auto;
 }
-#circle-cover-bg {
+.m-c-circle-bg {
 	background: url(../images/meditation2.jpeg) no-repeat center center;
 	height: 100%;
     border-radius:100%;
 	margin: 0 auto;
 }
-
+/* FOOTER */
 footer {
 	background-color: blueviolet;
 	padding: 2em;
@@ -175,7 +145,7 @@ footer > a {
 	color: beige;
 	text-decoration: none;
 	padding: 0 15px;
-	font-size: 0.8rem;
+	font-size: 1.2rem;
 }
 
 footer > p {
@@ -183,42 +153,45 @@ footer > p {
 }
 
 #contact {
-    margin-bottom: 50px;
-	padding: 20px;
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 100px;
+}
+.contact-box-container{
+	
+	padding: 10px;
 }
 
-.contact-boxes-container {
-    width: 66%;
-    margin: 0 auto;
+.contact-header{
+	font-size: 1.5rem;
+	color: blueviolet;
+	width: 100%;
+	padding: 16px 0;
+}
+.contact-table{
+	width: 100%;
+	margin: 16px 0;
+
+}
+.contact-table td{ 
+	padding: 10px 0;
+	text-align: center;
+}
+.contact-table-td{
+	text-align: left !important;
 }
 
-.contact-box-left {
-    width: 250px;
-    margin-top: -20px;
-	float: left;
-}
-
-.contact-box-right {
-    width: 250px;
-    text-align: right;
-    margin-top: -20px;
-	float: right;
-}
-
+.conta
 .spacer {
     clear: both;
 }
 
 .contact-box-center {
-    width: 250px;
-    height: 250px;
-    margin: 0 auto;
-    text-align: center;
+	width: 100%;
 }
-
-th,
-td {
-    border-bottom: 1px solid grey;
+.contact-map{
+	width: 100%;
 }
 
 ul {
@@ -296,6 +269,8 @@ a:hover {
     }
 }
 
+
+
 #cover-text {
 	left: 0;
 }
@@ -324,6 +299,20 @@ a:hover {
 /* For small screen sizes below 800px width */
 @media screen and (max-width: 800px) {
     #photos {
-        column-count: 2;
+		column-count: 2;
     }
+	#contact{
+		flex-direction: column !important;
+	}
+	.contact-boxes-container{
+		padding: 10px;
+	}
+	.contact-header{
+		padding: 0 !important;
+	}
+}
+@media screen and (max-width: 768px) {
+	.m-c-row{
+		flex-direction: column;
+	}
 }
