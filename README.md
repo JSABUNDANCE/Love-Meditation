@@ -18,7 +18,7 @@ Meditation brings many health benefits into people's life. The site provides bas
   - The landing includes a photograph with text overlay to allow the user to understand the 3 foundation elements of meditation. 
   - This section introduces the user to Love Meditation with an eye catching animation to demonstrate the expansion of the heart chakra     - when people meditating.
 
-![Landing Page](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/The%20landing%20page%20image.png)
+![Landing Page](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/landing-image.png)
 
 - __Club Ethos Section__
 
@@ -54,9 +54,7 @@ Meditation brings many health benefits into people's life. The site provides bas
 
 ![Sign Up](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/join-us-page.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
