@@ -1,108 +1,108 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Love Meditation
 
-Welcome Jeff Xiaodong Shi,
+Love meditation is a free meditation group held in Dublin city centre.
+Meditation brings many health benefits into people's life. The site provides basic knowledges about meditation , meditation music, also prides free memebership for people who wants to join.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Existing Features
 
-`python3 -m http.server`
+- __Navigation Bar__
 
-A blue button should appear to click: _Make Public_,
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Meditation Pictures and Join Us page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-Another blue button should appear to click: _Open Browser_.
+![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- __The landing page image__
+  -“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” quoted by Nikola Tesla.
+  - The landing includes a photograph with text overlay to allow the user to understand the 3 foundation elements of meditation. 
+  - This section introduces the user to Love Meditation with an eye catching animation to demostrate the expansion of the heart chakra     - when people meditating.
 
-A blue button should appear to click: _Make Public_,
+![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-Another blue button should appear to click: _Open Browser_.
+- __Club Ethos Section__
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+  - The cluClub ethos section will allow the user to understand the benefits of joining the Love Meditation meetups, as well as the benefits of meditate overall. 
+  - This user will be able to click on the sample of meditation music from youtube so the user to experience the healing power of the meditation.
 
-To log into the Heroku toolbelt CLI:
+![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- __Meetup Times section__
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  - This section will allow the user to see exactly when the meetups will happen, where they will be located. 
+  - Also the google map link has been attached so the user can navigate with their phone if you are new to the city.
 
-------
+![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-## Release History
+- __The Footer__ 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+- __Meditation Pictures__
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+  - The gallery will provide the user with supporting images to see what the meet ups look like. 
+  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+- __The Join Us Page__
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+  - This page will allow the user to get signed up to Love Meditation to start their meditating journey with the community. 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+For some/all of your features, you may choose to reference the specific project files that implement them.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Features Left to Implement
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- Build on line short courses.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Testing 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+I have the done the testing and the site works well. 3 pages are all working as intended, with the project providing an easy and straightforward way for the users to obtain the information about the love meditation group.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+All 3 pages look and work on different browsers and screen sizes including mobile and tablet.
 
-------
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
+### Validator Testing 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-**How will this affect me?**
+### Unfixed Bugs
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+## Deployment
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+I have gone through the process to deploy the project to a hosting platform as github. 
 
-**So….?**
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+The live link can be found here - https://jsabundance.github.io/Love-Meditation/
 
-**Can I opt out?**
+## Credits 
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+### Content 
 
-**Anything more?**
+The texts on the home page were inspired by the quoate from Nicolas Tesla about the "vibration", "energy" and "viabration".
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+### Media
 
----
+- The photos used on the home and sign up page are from This Open Source site https://www.google.com.
 
-Happy coding!
+- The images used for the gallery page were taken from https://www.pexels.com.
+
+
+take small steps to reach the final outcome and enjoy the process! 
