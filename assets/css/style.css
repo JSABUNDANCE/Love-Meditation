@@ -317,6 +317,16 @@
   }
 
   /* SIGNUP CSS  */
+
+  input {
+    border: 2px solid currentcolor;
+  }
+  input:invalid {
+    border: 2px dashed #F75D59;
+  }
+  input:invalid:focus {
+    background-color:#F75D59;
+  }
   .form-section {
     background-image: url(./../images/med13.jpg);
     background-position: center;
