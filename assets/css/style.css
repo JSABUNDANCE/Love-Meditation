@@ -93,7 +93,7 @@ header {
   padding-left: 20px;
   background-color: rgba(255, 255, 255, 0.2);
   bottom: 95px;
-  right: 95px;
+  left: 20px !important;
   position: absolute;
 }
 /*club-meditation*/
@@ -162,8 +162,9 @@ footer > p {
   justify-content: space-between;
   margin-bottom: 100px;
 }
-.contact-box-container {
+.contact-boxes-container {
   padding: 10px;
+  width: 100%;
 }
 
 .contact-header {
@@ -171,6 +172,10 @@ footer > p {
   color: blueviolet;
   width: 100%;
   padding: 16px 0;
+  text-align:  center;
+}
+.contact-box-center p{
+  text-align:  center;
 }
 .contact-table {
   width: 100%;
@@ -181,7 +186,7 @@ footer > p {
   text-align: center;
 }
 .contact-table-td {
-  text-align: left !important;
+  text-align: center !important;
 }
 
 .conta .spacer {
@@ -190,6 +195,9 @@ footer > p {
 
 .contact-box-center {
   width: 100%;
+}
+.contact-box-right div {
+  text-align: center;
 }
 .contact-map {
   width: 100%;
@@ -313,7 +321,7 @@ a:hover {
   background: #ffffff50;
   padding: 50px 20px;
   position: absolute;
-  left: 0;
+  left: 20px;
   top: 50%;
   transform: translateY(-50%);
 }
