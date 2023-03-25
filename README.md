@@ -32,7 +32,7 @@ Meditation brings many health benefits into people's life. The site provides bas
   - This section will allow the user to see exactly when the meetups will happen, where they will be located. 
   - Also the google map link has been attached so the user can navigate with their phone if you are new to the city.
 
-![Meetup Times](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/Meetup%20Times%20section.png)
+![Meetup Times](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/meetup-time-location.png)
 
 - __The Footer__ 
 
@@ -46,13 +46,13 @@ Meditation brings many health benefits into people's life. The site provides bas
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/Meditation%20Pictures.png)
+![Gallery](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/meditation-pictures.png)
 
 - __The Join Us Page__
 
   - This page will allow the user to get signed up to Love Meditation to start their meditating journey with the community. 
 
-![Sign Up](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/The%20Join%20Us%20Page.png)
+![Sign Up](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/join-us-page.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -79,7 +79,7 @@ All 3 pages look and work on different browsers and screen sizes including mobil
 
 ### Unfixed Bugs
 
-There is no unfixed bugs. 
+The navigation bar on top is not responsive . 
 
 ## Deployment
 
@@ -90,6 +90,7 @@ The live link can be found here - https://jsabundance.github.io/Love-Meditation/
 
 ## Credits 
 
+Inspired by the "love running" project and I have my own design and coding in my "love meditation" project.
 
 ### Content 
 
