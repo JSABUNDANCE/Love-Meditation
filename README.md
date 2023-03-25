@@ -1,7 +1,7 @@
 # Love Meditation
 
 Love meditation is a free meditation group held in Dublin city centre.
-Meditation brings many health benefits into people's life. The site provides basic knowledges about meditation , meditation music, also prides free memebership for people who wants to join.
+Meditation brings many health benefits into people's life. The site provides basic knowledge about meditation , meditation music, also prides free membership for people who wants to join.
 
 
 ### Existing Features
@@ -16,14 +16,14 @@ Meditation brings many health benefits into people's life. The site provides bas
 - __The landing page image__
   -“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” quoted by Nikola Tesla.
   - The landing includes a photograph with text overlay to allow the user to understand the 3 foundation elements of meditation. 
-  - This section introduces the user to Love Meditation with an eye catching animation to demostrate the expansion of the heart chakra     - when people meditating.
+  - This section introduces the user to Love Meditation with an eye catching animation to demonstrate the expansion of the heart chakra     - when people meditating.
 
 ![Landing Page](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/The%20landing%20page%20image.png)
 
 - __Club Ethos Section__
 
-  - The cluClub ethos section will allow the user to understand the benefits of joining the Love Meditation meetups, as well as the benefits of meditate overall. 
-  - This user will be able to click on the sample of meditation music from youtube so the user to experience the healing power of the meditation.
+  - The club ethos section will allow the user to understand the benefits of joining the Love Meditation meetups, as well as the benefits of meditate overall. 
+  - This user will be able to click on the sample of meditation music from YouTube so the user to experience the healing power of the meditation.
 
 ![Club Ethos](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/club%20ethos.png)
 
@@ -73,13 +73,13 @@ All 3 pages look and work on different browsers and screen sizes including mobil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator]
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator]
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+There is no unfixed bugs. 
 
 ## Deployment
 
@@ -102,4 +102,3 @@ The texts on the home page were inspired by the quoate from Nicolas Tesla about 
 - The images used for the gallery page were taken from https://www.pexels.com.
 
 
-take small steps to reach the final outcome and enjoy the process! 
