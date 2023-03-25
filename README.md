@@ -4,9 +4,6 @@ Love meditation is a free meditation group held in Dublin city centre.
 Meditation brings many health benefits into people's life. The site provides basic knowledges about meditation , meditation music, also prides free memebership for people who wants to join.
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -14,48 +11,48 @@ Meditation brings many health benefits into people's life. The site provides bas
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Meditation Pictures and Join Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/Navigation%20Bar.png)
 
 - __The landing page image__
   -“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” quoted by Nikola Tesla.
   - The landing includes a photograph with text overlay to allow the user to understand the 3 foundation elements of meditation. 
   - This section introduces the user to Love Meditation with an eye catching animation to demostrate the expansion of the heart chakra     - when people meditating.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/The%20landing%20page%20image.png)
 
 - __Club Ethos Section__
 
   - The cluClub ethos section will allow the user to understand the benefits of joining the Love Meditation meetups, as well as the benefits of meditate overall. 
   - This user will be able to click on the sample of meditation music from youtube so the user to experience the healing power of the meditation.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/club%20ethos.png)
 
 - __Meetup Times section__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located. 
   - Also the google map link has been attached so the user can navigate with their phone if you are new to the city.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/Meetup%20Times%20section.png)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/Footer.png)
 
 - __Meditation Pictures__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/Meditation%20Pictures.png)
 
 - __The Join Us Page__
 
   - This page will allow the user to get signed up to Love Meditation to start their meditating journey with the community. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/The%20Join%20Us%20Page.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
