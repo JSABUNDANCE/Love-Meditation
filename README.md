@@ -30,7 +30,7 @@ Meditation brings many health benefits into people's life. The site provides bas
 - __Meetup Times section__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located. 
-  - Also the google map link has been attached so the user can navigate with their phone if you are new to the city.
+  - Also the google map link has been attached so the user can navigate with their phone if they are new to the city.
 
 ![Meetup Times](https://github.com/JSABUNDANCE/Love-Meditation/blob/main/assets/media/meetup-time-location.png)
 
