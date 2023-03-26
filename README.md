@@ -77,7 +77,7 @@ All 3 pages look and work on different browsers and screen sizes including mobil
 
 ### Unfixed Bugs
 
-The navigation bar on top is not responsive . 
+The logo "love meditaiton" on top is not responsive . 
 
 ## Deployment
 
